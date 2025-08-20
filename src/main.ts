@@ -1,1 +1,5 @@
 import './style.css'
+// import './01-primitives'
+// import './02-objects'
+// import './04-types'
+import './05-functions'
