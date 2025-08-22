@@ -107,11 +107,12 @@
 // };
 
 // ********** 
-type Person = { name: string; age?: number };
+// type Person = { name: string; age?: number };
 
 
-const arrowFunc = ({name, age}: Person): void => {
-      console.log(name, age);
-    };
+// const arrowFunc = ({name, age}: Person): void => {
+//       console.log(name, age);
+//     };
 
-    arrowFunc({ name: "Max", age: 25});
+//     arrowFunc({ name: "Max", age: 25});
+
